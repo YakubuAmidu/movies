@@ -1,11 +1,11 @@
 import React from 'react';
 import './App.scss';
-import Home from './components/Home/Home';
+import Watch from './pages/Watch/Watch';
 
 const App = () => {
   return (
     <div className="App">
-     <Home />
+     <Watch />
     </div>
   );
 }

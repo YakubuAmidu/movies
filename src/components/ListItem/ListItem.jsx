@@ -5,7 +5,7 @@ import './ListItem.scss';
 
 const ListItem = ({ index }) => {
     const [isHovered, setIsHovered] = useState(false);
-    const trailer = "https://shutterstock.7eer.net/c/1203981/43977/1305?u=https://www.shutterstock.com/video/clip-1028009684&&sharedId=search_page&subId1=music&subId2=0&subId3=off";
+    const trailer = 'https://ak.picdn.net/shutterstock/videos/1028009684/preview/stock-footage-active-young-mom-babysiter-and-cute-little-kid-daughter-jumping-dancing-in-modern-house-living-room.webm';
 
     return (
         <div className="ListItem" style={{ left: isHovered && index * 225 - 50 + index * 2.5}} onMouseEnter={() => setIsHovered(true)} onMouseLeave={() => setIsHovered(false)}>
