@@ -43,6 +43,36 @@
             display: flex;
             flex-direction: column;
             justify-content: space-around;
+
+            input {
+                height: 40px;
+                border-radius: 5px;
+                background-color: gray;
+                 color: white;
+                 padding-left: 10px;
+
+                 &::placeholder{
+                     color: lightgray;
+                 }
+            }
+
+            .loginButton{
+                height: 40px;
+                font-size: 18px;
+                background-color: red;
+                color: white;
+                font-weight: 500;
+                border: none;
+                cursor: pointer;
+            }
+
+            span{
+                color: lightgray;
+
+                b{
+                    color: white;
+                }
+            }
         }
     }
 }
