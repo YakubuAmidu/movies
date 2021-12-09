@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/YakubuAmidu/movies/static/css/main.4cf65703.chunk.css",
+    "main.js": "/YakubuAmidu/movies/static/js/main.fb970238.chunk.js",
+    "main.js.map": "/YakubuAmidu/movies/static/js/main.fb970238.chunk.js.map",
+    "runtime-main.js": "/YakubuAmidu/movies/static/js/runtime-main.8a7d802d.js",
+    "runtime-main.js.map": "/YakubuAmidu/movies/static/js/runtime-main.8a7d802d.js.map",
+    "static/js/2.a7cfda22.chunk.js": "/YakubuAmidu/movies/static/js/2.a7cfda22.chunk.js",
+    "static/js/2.a7cfda22.chunk.js.map": "/YakubuAmidu/movies/static/js/2.a7cfda22.chunk.js.map",
+    "index.html": "/YakubuAmidu/movies/index.html",
+    "static/css/main.4cf65703.chunk.css.map": "/YakubuAmidu/movies/static/css/main.4cf65703.chunk.css.map",
+    "static/js/2.a7cfda22.chunk.js.LICENSE.txt": "/YakubuAmidu/movies/static/js/2.a7cfda22.chunk.js.LICENSE.txt",
+    "static/media/Netflix1.addb8e5b.png": "/YakubuAmidu/movies/static/media/Netflix1.addb8e5b.png",
+    "static/media/matrix.d72b5a52.png": "/YakubuAmidu/movies/static/media/matrix.d72b5a52.png",
+    "static/media/profile.d78b1cce.png": "/YakubuAmidu/movies/static/media/profile.d78b1cce.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a7d802d.js",
+    "static/js/2.a7cfda22.chunk.js",
+    "static/css/main.4cf65703.chunk.css",
+    "static/js/main.fb970238.chunk.js"
+  ]
+}
